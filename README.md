@@ -2,7 +2,15 @@
 <div style="text-align: justify;">
 
 <div style="border: 1px solid #ccc; padding: 10px;">
-<b>This project is part of a series of assignments for COMP5329 - Deep Learning for the Masters Degree in Data Science at The University of Sydney. </b> Snippets of codes are provided in this workbook <ins>for elaboration purposes</ins>. Please access the individual python files for full code. Please go to the end of the document for attributions/citations. I've removed them from the text body for ease of reading.
+<b>This project is part of a series of assignments for COMP5329 - Deep Learning for the Masters Degree in Data Science at The University of Sydney. </b> (i) Snippets of codes are provided in this workbook <ins>for elaboration purposes</ins>. Please access the individual python files for full code. (ii) I've excluded the produced .pth files from this repo, they're taking too much space and I doubt they're any useful to anyone. (iii) Please go to the end of the document for attributions/citations. I've removed them from the text body for ease of reading.
+
+<br> 
+
+**Relevant links:**
+- Github Repo can be accessed here  
+- Train and validation scores is hosted on Tableau [here](https://public.tableau.com/app/profile/vincent.yunansan/viz/log_analyzer/Dashboard3?publish=yes)
+- Colab workbook to train the best model can be found [here](https://colab.research.google.com/drive/1N4Q6oCltH2wJZLkh9Lo1Ya8VdE4WO9OR?usp=sharing)
+<br>
 </div>
 <br>
 
